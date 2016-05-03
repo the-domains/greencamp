@@ -1,0 +1,28 @@
+name: GreenCamp
+favicon: null
+layout_spectrum: 0.14029697189107537
+typography_spectrum: 0.515379662392661
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08037161407992244
+  lightness: 0.1775966703426093
+  saturation: 0.8217351569328457
+  rhythmicContrast: 0.8690080782398582
+purpose: []
